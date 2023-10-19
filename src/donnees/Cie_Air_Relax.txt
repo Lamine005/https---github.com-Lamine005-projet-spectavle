@@ -1,0 +1,20 @@
+17890;Guadeloupe;1;7;2023;340
+17890;Guadeloupe;1;7;2023;340
+17890;Guadeloupe;1;7;2023;340
+17890;Guadeloupe;1;7;2023;340
+19012;Nouvelle-Orléans;3;5;2002;295
+19012;Nouvelle-Orléans;3;5;2002;250
+21112;Montréal;6;12;2024;0
+21112;Montréal;6;12;2024;0
+22345;Martinique;25;4;2002;340
+22345;Martinique;25;4;2002;340
+28901;Las Vegas;13;5;2002;5
+28901;Las Vegas;13;5;2002;5
+34565;Lolo;4;9;2023;0
+34565;Lolo;4;9;2023;0
+34565;Lolo;4;9;2023;0
+36789;New-York;15;4;2002;67
+45678;Les Iles Baléares;6;5;2002;150
+45678;Les Iles Baléares;6;5;2002;150
+53456;San Francisco;25;3;2023;327
+46578;Loreal;5;4;2034;0
